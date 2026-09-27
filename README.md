@@ -1,2 +1,9 @@
 # file-hash
-Compute SHA-256 and MD5 of files, verify against expected
+
+SHA-256 / MD5 / SHA-1 hashing with optional verification.
+
+```
+python hash.py archive.zip
+```
+
+MIT licensed.
